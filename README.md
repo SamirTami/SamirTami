@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data Science
 - 📫 How to reach me : Sa.tamadon@gmail.com
-- 😄 Pronouns: She
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 
 <!---
